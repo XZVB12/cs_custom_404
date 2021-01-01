@@ -1,8 +1,8 @@
 # Cobalt strike custom 404 page
 
-## Note to upgrade to version 4.2:
+## Note to upgrade to version 4.0:
 At the moment, this update is in a test state. I need to understand a few fragments of code and conduct additional tests. But it seems that the update is already working, if you find an error in the code or run into problems let me know, I will try to fix it.  
-As before, I used jdk 14 to compile, if you use a different version of java to work, you should compile yourself using the following command: `javac -classpath cobaltstrike.jar WebServer.java`
+As before, I used jdk 13 to compile, if you use a different version of java to work, you should compile yourself using the following command: `javac -classpath cobaltstrike.jar WebServer.java`
 Many thanks to the author for the idea. Using Cobalt Strike it is worth avoiding as much as possible standard elements that can be noticeable from the outside.
 
 ## why use this?
